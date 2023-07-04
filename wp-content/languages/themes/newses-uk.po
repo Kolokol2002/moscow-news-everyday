@@ -1,0 +1,743 @@
+# Translation of Themes - Newses in Ukrainian
+# This file is distributed under the same license as the Themes - Newses package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-15 16:39:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - Newses\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Newses"
+msgstr "Newses"
+
+#. Description of the theme
+#: inc/ansar/admin/getting-started.php:90
+#, gp-priority: high
+msgid "Newses is an indispensable Responsive News and Magazine template with a clean, modern design suitable for everyone who wants to share their stories and the latest breaking news or the hottest products. the theme comes light and dark color mode, Newses is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals, personal blogs, newspaper, agencies, publishing or review siteand any creative website. Newses is SEO friendly, WPML, Gutenberg, WooCommerce, translation and RTL ready. We offer great support and friendly help!. Live preview : https://demos.themeansar.com/newses and documentation at https://docs.themeansar.com/docs/newses/"
+msgstr "Newses - це незамінний адаптивний шаблон новин та журналів із чистим сучасним дизайном, який підходить усім, хто хоче поділитися своїми історіями та останніми новинами, або найпопулярнішими продуктами. тема виконана у світлому та темному кольоровому режимі, Newses підходить для динамічних новин, газет, журналів, видавців, блогів, редакторів, інтернет та ігрових журналів,порталів новин, персональних блогів, газет, агентств, сайтів публікацій чи оглядів та будь-якого творчого веб-сайту. Newses SEO-дружня, готова до WPML, Gutenberg, WooCommerce, перекладу та RTL. Ми пропонуємо велику підтримку та привітну допомогу! Попередній перегляд: https://demos.themeansar.com/newses та документація на https://docs.themeansar.com/docs/newses/"
+
+#: inc/ansar/customize/theme-options.php:21
+#: inc/ansar/customize/theme-options.php:45
+msgid "Skin color"
+msgstr "Колір обкладинки"
+
+#: inc/ansar/customize/theme-options.php:1013
+msgid "Text Color"
+msgstr "Колір тексту"
+
+#: inc/ansar/customize/theme-options.php:356
+#: inc/ansar/customize/theme-options.php:1265
+msgid "Telegram URL"
+msgstr "Telegram URL"
+
+#: inc/ansar/customize/theme-options.php:744
+msgid "Hide/Show Tag"
+msgstr "Приховати / Показати позначку"
+
+#: inc/ansar/customize/theme-options.php:773
+msgid "Hide/Show Sharing Icons"
+msgstr "Приховати/показати іконки соц. мереж"
+
+#: inc/ansar/template-tags.php:76 inc/ansar/template-tags.php:85
+#: inc/ansar/template-tags.php:93 single.php:184
+msgid "Edit"
+msgstr "Редагувати"
+
+#: inc/ansar/admin/tabs/recommended-plugins-panel.php:37
+msgid "Shortbuild plugin"
+msgstr "Плагін Shortbuild"
+
+#: inc/ansar/admin/tabs/recommended-plugins-panel.php:37
+msgid " then go to Widgets menu under Appearance and drag wigdet in Front-page content Section"
+msgstr "потім перейдіть до меню Віджети в розділі Вигляд та перетягніть віджет у Розділі вмісту Головної сторінки"
+
+#: inc/ansar/admin/tabs/recommended-plugins-panel.php:36
+msgid "To display Newses Frontpage widget, please install the"
+msgstr "Щоб відобразити віджет Newses Frontpage, встановіть"
+
+#: inc/ansar/admin/tabs/recommended-plugins-panel.php:43
+msgid "Ansar Import Plugin"
+msgstr "Плагін імпорту Ansar"
+
+#: functions.php:221
+msgid "Front-page Sidebar Section"
+msgstr "Розділ бічна колонка головної сторінки"
+
+#: functions.php:211
+msgid "Front-page Content Section"
+msgstr "Розділ вміст головної сторінки"
+
+#: inc/ansar/customize/theme-options.php:505
+msgid "Boxed"
+msgstr "Фіксована"
+
+#: inc/ansar/customize/theme-options.php:504
+msgid "Wide"
+msgstr "Широкий"
+
+#: inc/ansar/customize/theme-options.php:487
+msgid "Site Layout"
+msgstr "Макет сайту"
+
+#: inc/ansar/customize/theme-options.php:502
+msgid "Choose your site layout"
+msgstr "Оберіть ваш макет сайту"
+
+#: 404.php:36
+msgid "Go Back"
+msgstr "Назад"
+
+#: 404.php:35
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Вибачте, але сторінки, яку ви шукаєте, не існує."
+
+#: 404.php:34
+msgid "Oops! Page not found"
+msgstr "Ой! Сторінку не знайдено"
+
+#: 404.php:33
+msgid "4"
+msgstr "4"
+
+#: 404.php:14 404.php:18
+msgid "404"
+msgstr "404"
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: comments.php:59 comments.php:80
+msgid "Newer Comments"
+msgstr "Новіші коментарі"
+
+#: comments.php:58 comments.php:79
+msgid "Older Comments"
+msgstr "Старіші коментарі"
+
+#: comments.php:55 comments.php:76
+msgid "Comment navigation"
+msgstr "Навігація по коментарях"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s коментар до &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s коментар до &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s коментар до &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один коментар до &ldquo;%s&rdquo;"
+
+#: single.php:38
+msgid "By"
+msgstr "Від"
+
+#: search.php:49
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "На жаль, нічого не відповідає вашому пошуковому запиту. Будь ласка, спробуйте ще раз, змінивши ключові слова"
+
+#: inc/ansar/hooks/hook-meta.php:12 inc/ansar/hooks/hook-meta.php:52
+msgid "Category Color 4"
+msgstr "Колір категорії 4"
+
+#: inc/ansar/hooks/hook-meta.php:11 inc/ansar/hooks/hook-meta.php:51
+msgid "Category Color 3"
+msgstr "Колір категорії 3"
+
+#: inc/ansar/hooks/hook-meta.php:10 inc/ansar/hooks/hook-meta.php:50
+msgid "Category Color 2"
+msgstr "Колір категорії 2"
+
+#: inc/ansar/hooks/hook-meta.php:9 inc/ansar/hooks/hook-meta.php:49
+msgid "Category Color 1"
+msgstr "Колір категорії 1"
+
+#: inc/ansar/template-tags.php:104
+msgid "Read More"
+msgstr "Дізнатися більше"
+
+#: inc/ansar/admin/getting-started.php:168
+msgid "Get started with Newses"
+msgstr "Розпочати з Newses"
+
+#: inc/ansar/admin/getting-started.php:166
+msgid "Thank you for choosing Newses theme. To take full advantage of the complete features of the theme, you have to go to our %1$s welcome page %2$s."
+msgstr "Дякуємо, що обрали тему Newses. Щоб повною мірою скористатися повноцінними характеристиками теми, вам потрібно зайти на нашу %1$sвітальну сторінку%2$s."
+
+#: inc/ansar/admin/getting-started.php:164
+msgid "Congratulations, Welcome to %1$s Theme"
+msgstr "Вітаємо! Ласкаво просимо до теми %1$s"
+
+#: inc/ansar/admin/getting-started.php:130
+msgid "Submit a review"
+msgstr "Відправити відгук"
+
+#: inc/ansar/admin/getting-started.php:129
+msgid "Your feedback is valuable to us"
+msgstr "Ваш відгук важливий для нас"
+
+#: inc/ansar/admin/getting-started.php:126
+msgid "Get Support"
+msgstr "Отримати підтримку"
+
+#: inc/ansar/admin/getting-started.php:125
+msgid "Newses Theme Support"
+msgstr "Підтримка теми Newses"
+
+#: inc/ansar/admin/getting-started.php:113
+msgid "Useful Plugins"
+msgstr "Корисні плагіни"
+
+#: inc/ansar/admin/getting-started.php:100
+msgid "Getting Started"
+msgstr "Початок роботи"
+
+#: inc/ansar/admin/class-getting-start-plugin-helper.php:112
+msgid "Deactivate"
+msgstr "Деактивуйте"
+
+#: search.php:47
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#. translators: %s: search term
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Результати пошуку для: %s"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Перейти до вмісту"
+
+#: functions.php:231
+msgid "Footer Widget Area"
+msgstr "Область підвалу"
+
+#: functions.php:201
+msgid "Sidebar Widget Area"
+msgstr "Область віджетів бічної панелі"
+
+#: functions.php:89
+msgid "Footer menu"
+msgstr "Меню підвалу"
+
+#: functions.php:88
+msgid "Primary menu"
+msgstr "Головне меню"
+
+#. translators: placeholder replaced with string
+#: footer.php:193
+msgid "https://themeansar.com/"
+msgstr "https://themeansar.com/"
+
+#. translators: placeholder replaced with string
+#: footer.php:193
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема:%1$s за %2$s."
+
+#. translators: placeholder replaced with string
+#: footer.php:187
+msgid "Proudly powered by %s"
+msgstr "Сайт працює на %s"
+
+#: footer.php:184
+msgid "https://wordpress.org/"
+msgstr "https://uk.wordpress.org/"
+
+#: inc/ansar/hooks/hook-meta.php:23 inc/ansar/hooks/hook-meta.php:61
+msgid "Select category color class. You can set appropriate categories color on \"Categories\" section of the theme customizer."
+msgstr "Виберіть кольоровий клас категорії. Ви можете встановити відповідний колір категорій у розділі \"Категорії\" у налаштуваннях теми."
+
+#: inc/ansar/hooks/hook-meta.php:17 inc/ansar/hooks/hook-meta.php:45
+msgid "Color Class"
+msgstr "Кольоровий клас"
+
+#: inc/ansar/admin/class-getting-start-plugin-helper.php:97
+msgid "Activate"
+msgstr "Активувати"
+
+#: inc/ansar/admin/class-getting-start-plugin-helper.php:93
+msgid "Install and activate"
+msgstr "Встановити та активувати"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/ansar/template-functions.php:196
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Редагувати <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/ansar/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr "Перейти на Pro"
+
+#: inc/ansar/customize-pro/class-customize.php:64
+msgid "Newses Pro Available!"
+msgstr "Newses Pro доступний!"
+
+#: inc/ansar/newses-custom-navwalker.php:207
+msgid "Add a menu"
+msgstr "Додати меню"
+
+#: inc/ansar/customize/customizer-control.php:158
+msgid "All"
+msgstr "Усі"
+
+#: inc/ansar/customize/customizer-default.php:92
+msgid "You may have missed"
+msgstr "Можливо, ви пропустили"
+
+#: inc/ansar/customize/customizer-default.php:73
+msgid "Featured Story"
+msgstr "Вибрана історія"
+
+#: inc/ansar/customize/customizer-default.php:67
+msgid "Popular"
+msgstr "Найпопулярніше"
+
+#: inc/ansar/customize/customizer-default.php:66
+msgid "Latest"
+msgstr "Останнє"
+
+#: inc/ansar/customize/customizer-default.php:45
+#: inc/ansar/customize/customizer-default.php:68
+msgid "Trending"
+msgstr "Гарячі"
+
+#: inc/ansar/customize/customizer-default.php:36
+msgid "Latest Post"
+msgstr "Останні записи"
+
+#: inc/ansar/customize/theme-options.php:1233
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#. translators: %1$s %2$s: welcome message
+#: inc/ansar/admin/getting-started.php:89
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "Ласкаво просимо до %1$s - Версія %2$s"
+
+#: inc/ansar/admin/getting-started.php:37
+msgid "Activating "
+msgstr "Активується"
+
+#. translators: %1$s: welcome page
+#: inc/ansar/admin/getting-started.php:21
+msgid "Welcome to %1$s"
+msgstr "Ласкаво просимо до%1$s"
+
+#. translators: %1$s %2$s: about
+#: inc/ansar/admin/getting-started.php:19
+msgid "About %1$s %2$s"
+msgstr "Про %1$s %2$s"
+
+#: inc/ansar/admin/tabs/useful-plugin-panel.php:46
+msgid "To use the Elementor layouts and pages, install the Elementor plugin."
+msgstr "Для використання макетів та сторінок Elementor встановіть плагін Elementor."
+
+#: inc/ansar/admin/tabs/useful-plugin-panel.php:42
+msgid "To display the Woocommerce layout, please install the Woocommerce plugin."
+msgstr "Щоб відобразити макет Woocommerce, встановіть плагін Woocommerce."
+
+#: inc/ansar/admin/tabs/useful-plugin-panel.php:38
+msgid "To display the contact form, please install the Contact Form 7 plugin."
+msgstr "Для відображення контактної форми, будь ласка, встановіть плагін Contact Form 7."
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:20
+msgid "Visit the Support"
+msgstr "Відвідайте підтримку"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:19
+#: inc/ansar/admin/tabs/getting-started-panel.php:20
+msgid "Go to the Customizer"
+msgstr "Перейти до Налаштовувача"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:16
+msgid "Documentation"
+msgstr "Документація"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:16
+msgid "https://docs.themeansar.com/docs/newses/"
+msgstr "https://docs.themeansar.com/docs/newses/"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:14
+msgid "Newses Documentation"
+msgstr "Newses документацію"
+
+#: inc/ansar/admin/getting-started.php:105
+#: inc/ansar/admin/tabs/getting-started-panel.php:10
+#: inc/ansar/admin/tabs/getting-started-panel.php:11
+msgid "Demo Content"
+msgstr "Зразок вмісту"
+
+#: inc/ansar/customize/theme-options.php:1028
+msgid "Select Column Layout"
+msgstr "Виберіть Розташування стовпців"
+
+#: inc/ansar/customize/theme-options.php:988
+msgid "Background Image"
+msgstr "Фонове зображення"
+
+#: inc/ansar/customize/theme-options.php:960
+msgid "Footer Options"
+msgstr "Параметри підвалу"
+
+#: inc/ansar/customize/theme-options.php:940
+msgid "You Missed"
+msgstr "Ви пропустили"
+
+#: inc/ansar/customize/theme-options.php:929
+msgid "Hide / Show You Missed Section"
+msgstr "Показати приховати розділ \"Ви пропустили\""
+
+#: inc/ansar/customize/theme-options.php:914
+msgid "You Missed Section"
+msgstr "Розділ \"Ви пропустили\""
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:16
+msgid "Newses Support"
+msgstr "Підтримка Newses"
+
+#: inc/ansar/customize/theme-options.php:666
+#: inc/ansar/customize/theme-options.php:686
+msgid "Single Post"
+msgstr "Окремий запис"
+
+#: inc/ansar/customize/theme-options.php:656
+msgid "Hide All"
+msgstr "Приховати все"
+
+#: inc/ansar/customize/theme-options.php:655
+msgid "Show Author Only"
+msgstr "Показати лише автора"
+
+#: inc/ansar/customize/theme-options.php:654
+msgid "Show Date Only"
+msgstr "Показати лише дату"
+
+#: inc/ansar/customize/theme-options.php:653
+msgid "Show Date and Author"
+msgstr "Показати дату та автора"
+
+#: inc/ansar/customize/theme-options.php:630
+#: inc/ansar/customize/theme-options.php:649
+msgid "Date and Author"
+msgstr "Дата та автор"
+
+#: inc/ansar/customize/theme-options.php:589
+msgid "Single Blog Pages"
+msgstr "Сторінки окремого блогу"
+
+#: inc/ansar/customize/theme-options.php:564
+#: inc/ansar/customize/theme-options.php:613
+msgid "Layout"
+msgstr "Структура"
+
+#: inc/ansar/customize/theme-options.php:540
+msgid "Archive Blog Pages"
+msgstr "Сторінку архівного блогу"
+
+#: inc/ansar/customize/theme-options.php:521
+msgid "Content Layout Settings"
+msgstr "Налаштування макету вмісту"
+
+#: inc/ansar/customize/theme-options.php:457
+msgid "Link"
+msgstr "Посилання"
+
+#: inc/ansar/customize/theme-options.php:424
+msgid "Hide / Show Search Icon"
+msgstr "Приховати/показати іконки соц. мереж"
+
+#: inc/ansar/customize/theme-options.php:409
+msgid "Header Options"
+msgstr "Параметри заголовку"
+
+#: inc/ansar/customize/theme-options.php:323
+msgid "Pintrest URL"
+msgstr "Pintrest URL"
+
+#: inc/ansar/customize/frontpage-options.php:394
+msgid "Posts to be shown on banner slider section"
+msgstr "Записи відображатимуться в розділі слайдера банера"
+
+#: inc/ansar/customize/frontpage-options.php:371
+msgid "Slider Section "
+msgstr "Розділ слайдеру"
+
+#: inc/ansar/customize/frontpage-options.php:350
+msgid "Posts to be shown on trending post section"
+msgstr "Записи відображатимуться в записах \"Тренд\""
+
+#: inc/ansar/customize/frontpage-options.php:349
+#: inc/ansar/customize/frontpage-options.php:393
+#: inc/ansar/customize/frontpage-options.php:437
+#: inc/ansar/customize/frontpage-options.php:479
+msgid "Category"
+msgstr "Категорія"
+
+#: inc/ansar/customize/frontpage-options.php:328
+#: inc/ansar/customize/theme-options.php:848
+#: inc/ansar/customize/theme-options.php:950
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/ansar/customize/frontpage-options.php:309
+msgid "Right"
+msgstr "Зправа"
+
+#: inc/ansar/customize/frontpage-options.php:308
+msgid "Left"
+msgstr "Ліворуч"
+
+#: inc/ansar/customize/frontpage-options.php:284
+msgid "Trending Section "
+msgstr "Розділ трендів"
+
+#: inc/ansar/customize/frontpage-options.php:266
+msgid "Enable Slider Banner Section"
+msgstr "Увімкнути розділ банеру"
+
+#: inc/ansar/customize/frontpage-options.php:248
+msgid "Slider Banner Section"
+msgstr "Слайдер/розділ банера"
+
+#: inc/ansar/customize/frontpage-options.php:232
+msgid "Posts to be shown on trending posts "
+msgstr "Записи відображатимуться в записах \"Тренд\""
+
+#: inc/ansar/customize/frontpage-options.php:231
+msgid "Latest Posts Category"
+msgstr "Категорія останніх записів"
+
+#: inc/ansar/customize/frontpage-options.php:210
+msgid "Latest Post Title"
+msgstr "Назва запису \"Останні\""
+
+#: inc/ansar/customize/customizer.php:260
+msgid "Site Title Size"
+msgstr "Розмір шрифту сайту"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Головна сторінка"
+
+#: 404.php:17 index-banner.php:29
+msgid "Home"
+msgstr "Домівка"
+
+#. Template Name of the theme
+msgid "Page Builder Template"
+msgstr "Page Builder Template"
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Пошук"
+
+#: inc/ansar/customize/theme-options.php:717
+#: inc/ansar/customize/theme-options.php:803
+#: inc/ansar/customize/theme-options.php:891
+msgid "Hide/Show Author Details"
+msgstr "Приховати / Показати деталі автора"
+
+#: inc/ansar/customize/theme-options.php:702
+#: inc/ansar/customize/theme-options.php:863
+msgid "Hide/Show Categories"
+msgstr "Приховати / Показати категорії"
+
+#: inc/ansar/customize/theme-options.php:292
+#: inc/ansar/customize/theme-options.php:1202
+msgid "Youtube URL"
+msgstr "YouTube URL"
+
+#: inc/ansar/customize/theme-options.php:261
+#: inc/ansar/customize/theme-options.php:1171
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/ansar/customize/theme-options.php:228
+#: inc/ansar/customize/theme-options.php:1139
+msgid "Linkedin URL"
+msgstr "Linkedin URL"
+
+#: inc/ansar/customize/theme-options.php:197
+#: inc/ansar/customize/theme-options.php:1107
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/ansar/customize/theme-options.php:163
+#: inc/ansar/customize/theme-options.php:1076
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/ansar/customize/theme-options.php:145
+#: inc/ansar/customize/theme-options.php:1058
+msgid "Hide / Show Social Icon"
+msgstr "Приховати/показати іконки соц. мереж"
+
+#: inc/ansar/customize/theme-options.php:99
+msgid "Hide / Show Time"
+msgstr "Приховати / Показати час"
+
+#: inc/ansar/customize/theme-options.php:85
+msgid "Hide / Show Date"
+msgstr "Приховати / Показати дату"
+
+#: inc/ansar/customize/frontpage-options.php:96
+msgid "URL Link"
+msgstr "Посилання"
+
+#: inc/ansar/customize/frontpage-options.php:75
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "Рекомендований розмір %1$s px X %2$s px"
+
+#: inc/ansar/customize/frontpage-options.php:74
+msgid "Banner Section Advertisement"
+msgstr "Банер розділу \"Реклама\""
+
+#: inc/ansar/customize/frontpage-options.php:56
+msgid "Banner Advertisement"
+msgstr "Банер \"Реклама\""
+
+#: inc/ansar/customize/frontpage-options.php:48
+msgid "Frontpage Options"
+msgstr "Параметри головної сторінки"
+
+#: inc/ansar/customize/frontpage-options.php:39
+msgid "Remove Image Overlay"
+msgstr "Видаліть накладку зображення"
+
+#: inc/ansar/customize/frontpage-options.php:24
+#: inc/ansar/customize/theme-options.php:1001
+msgid "Overlay Color"
+msgstr "Колір перекривання"
+
+#: inc/ansar/customize/theme-options.php:905
+msgid "Hide/Show Comments"
+msgstr "Приховати / Показати коментарі"
+
+#: inc/ansar/customize/theme-options.php:842
+msgid "Related Posts"
+msgstr "Пов’язані записи"
+
+#: inc/ansar/customize/theme-options.php:834
+msgid "Enable Related Posts"
+msgstr "Увімкнути пов'язані записи"
+
+#: inc/ansar/customize/theme-options.php:820 single.php:132
+msgid "Related Post"
+msgstr "Пов’язаний запис"
+
+#: inc/ansar/customize/theme-options.php:759
+msgid "Hide/Show Featured Image"
+msgstr "Показати/приховати \"Головне зображення\""
+
+#: inc/ansar/customize/theme-options.php:731
+#: inc/ansar/customize/theme-options.php:877
+msgid "Hide/Show Date"
+msgstr "Приховати / Показати дату"
+
+#: inc/ansar/customize/customizer-default.php:31
+#: inc/ansar/customize/frontpage-options.php:122
+msgid "Top Tags"
+msgstr "Кращі позначки"
+
+#: inc/ansar/customize/frontpage-options.php:111
+#: inc/ansar/customize/theme-options.php:179
+#: inc/ansar/customize/theme-options.php:211
+#: inc/ansar/customize/theme-options.php:243
+#: inc/ansar/customize/theme-options.php:275
+#: inc/ansar/customize/theme-options.php:306
+#: inc/ansar/customize/theme-options.php:338
+#: inc/ansar/customize/theme-options.php:371
+#: inc/ansar/customize/theme-options.php:471
+#: inc/ansar/customize/theme-options.php:1090
+#: inc/ansar/customize/theme-options.php:1122
+#: inc/ansar/customize/theme-options.php:1153
+#: inc/ansar/customize/theme-options.php:1185
+#: inc/ansar/customize/theme-options.php:1216
+#: inc/ansar/customize/theme-options.php:1247
+#: inc/ansar/customize/theme-options.php:1279
+msgid "Open link in a new tab"
+msgstr "Відкрити посилання у новій вкладці"
+
+#: inc/ansar/customize/theme-options.php:13
+msgid "Theme Options"
+msgstr "Параметри теми"
+
+#: inc/ansar/customize/frontpage-options.php:190
+msgid "Enable Latest Posts Section"
+msgstr "Увімкнути розділ \"Останні записи\""
+
+#: inc/ansar/customize/frontpage-options.php:173
+msgid "Latest Posts"
+msgstr "Останні записи"
+
+#: inc/ansar/customize/frontpage-options.php:158
+msgid "Section Title"
+msgstr "Заголовок розділу"
+
+#: inc/ansar/customize/frontpage-options.php:138
+msgid "Hide/Show Top Tags"
+msgstr "Приховати / Показати позначки"
+
+#: inc/ansar/customize/theme-options.php:439
+msgid "Hide / Show Watch Button"
+msgstr "Приховати / показати кнопку годинника"
+
+#: inc/ansar/customize/theme-options.php:117
+msgid "From WordPress Setting"
+msgstr "З налаштувань WordPress"
+
+#: inc/ansar/customize/theme-options.php:116
+msgid "Theme Default Setting"
+msgstr "Початкові налаштування теми"
+
+#: inc/ansar/customize/theme-options.php:114
+msgid "Date / Time in header display type:"
+msgstr "Дата / час у шапці, тип показу:"
+
+#: inc/ansar/customize/theme-options.php:55
+msgid "Top Header Options"
+msgstr "Налаштування верхнього заголовку"
+
+#: inc/ansar/customize/customizer.php:284
+msgid "Site Title/Tagline Color"
+msgstr "Колір назви/ключової фрази сайту"
+
+#: inc/ansar/customize/frontpage-options.php:458
+msgid "Editorials Section"
+msgstr "Розділ редакцій"
+
+#: inc/ansar/customize/frontpage-options.php:304
+msgid "Select Trending Carousel Position"
+msgstr "Виберіть положення каруселі \"У тренді\""
+
+#: inc/ansar/customize/frontpage-options.php:416
+msgid "Slider Thumbnail Posts"
+msgstr "Слайдер мініатюр записів"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Themeansar"
+msgstr "Themeansar"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://themeansar.com/free-themes/newses/"
+msgstr "https://themeansar.com/free-themes/newses/"
